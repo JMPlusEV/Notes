@@ -32,4 +32,4 @@
 Smaller than a giant spider, a **giant wolf spider** hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

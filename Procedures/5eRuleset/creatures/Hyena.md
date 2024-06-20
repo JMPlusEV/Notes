@@ -27,6 +27,6 @@
 
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

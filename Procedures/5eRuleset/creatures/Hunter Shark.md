@@ -30,4 +30,4 @@
 Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter shark** haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

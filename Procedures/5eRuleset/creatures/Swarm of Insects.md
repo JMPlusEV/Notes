@@ -46,4 +46,4 @@
 >**Swarm of Wasps**. A swarm of wasps has a walking speed of 5 feet, a flying speed of 30 feet, and no climbing speed.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

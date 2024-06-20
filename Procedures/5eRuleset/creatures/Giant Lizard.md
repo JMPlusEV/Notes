@@ -24,4 +24,4 @@
 A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

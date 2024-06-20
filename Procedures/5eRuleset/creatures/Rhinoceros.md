@@ -24,4 +24,4 @@
 ***Gore***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) bludgeoning damage.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

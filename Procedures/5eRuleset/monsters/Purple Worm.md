@@ -33,6 +33,6 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]

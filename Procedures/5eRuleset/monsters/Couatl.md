@@ -47,6 +47,6 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]

@@ -28,4 +28,4 @@
 Like their smaller kin, **giant sea horses** are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

@@ -30,4 +30,4 @@
 ***Claw***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

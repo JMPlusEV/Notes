@@ -30,4 +30,4 @@
 An **awakened shrub** is an ordinary shrub given sentience and mobility by the *awaken* spell or similar magic.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

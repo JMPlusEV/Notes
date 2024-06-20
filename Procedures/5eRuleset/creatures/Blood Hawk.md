@@ -30,4 +30,4 @@
 Taking its name from its crimson feathers and aggressive nature, the **blood hawk** fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

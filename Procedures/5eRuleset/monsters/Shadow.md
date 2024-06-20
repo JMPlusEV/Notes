@@ -40,4 +40,4 @@
 If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
 
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]

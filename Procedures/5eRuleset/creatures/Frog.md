@@ -28,6 +28,6 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

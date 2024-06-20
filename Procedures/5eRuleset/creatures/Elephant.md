@@ -26,4 +26,4 @@
 ***Stomp***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one prone creature. *Hit:* 22 (3d10+6) bludgeoning damage.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

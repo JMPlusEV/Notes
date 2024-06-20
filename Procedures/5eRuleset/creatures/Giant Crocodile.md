@@ -28,4 +28,4 @@
 ***Tail***. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target not grappled by the crocodile. *Hit:* 14 (2d8+5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

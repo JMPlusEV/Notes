@@ -56,6 +56,6 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]

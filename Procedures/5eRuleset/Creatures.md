@@ -65,7 +65,7 @@
 - [[Lion]]
 - [[Lizard]]
 - [[Lizard]]
-- [[Mammoth]]
+- [[Research Communities/NERD/Procedures/5eRuleset/creatures/Mammoth]]
 - [[Mastiff]]
 - [[Mule]]
 - [[Octopus]]

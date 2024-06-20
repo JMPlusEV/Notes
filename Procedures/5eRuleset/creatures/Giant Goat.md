@@ -26,4 +26,4 @@
 ***Ram***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4+3) bludgeoning damage.
 
 
-[[Creatures]]
+[[Research Communities/NERD/Procedures/5eRuleset/Creatures]]

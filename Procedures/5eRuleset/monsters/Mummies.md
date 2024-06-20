@@ -101,6 +101,6 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]

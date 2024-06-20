@@ -31,6 +31,6 @@ If the object touched is either metal armor or a metal shield being worn or carr
 
 
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]
 
-[[Monsters]]
+[[Research Communities/NERD/Procedures/5eRuleset/Monsters]]
